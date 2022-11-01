@@ -11,5 +11,5 @@ public class NavigateCommands extends Assignment{
 		NavigateCommands obj= new NavigateCommands();
 		obj.initializeBrowser();
 		obj.navigate();
-	}
+}
 }
